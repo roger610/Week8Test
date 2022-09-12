@@ -3,7 +3,7 @@
 You can find the initial python file and the climate.db file here. The database follows the below schema:
 
 
-## Table: ClimateData
+#### Table: ClimateData
 | Year      | CO2 | Temperature
 | ----------- | ----------- | ----------- |
 | 1950 | 250 | 14.1 |
