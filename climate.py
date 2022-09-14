@@ -10,6 +10,7 @@ plt.plot(years, co2, 'b--')
 plt.title("Climate Data") 
 plt.ylabel("[CO2]") 
 plt.xlabel("Year (decade)") 
+plt.show()
 
 
 
